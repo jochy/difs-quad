@@ -2,3 +2,6 @@ flask
 pytest
 pytest-cov
 pytest-mock
+selenium
+behave
+chromedriver-binary
