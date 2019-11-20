@@ -4,4 +4,4 @@ pytest-cov
 pytest-mock
 selenium
 behave
-chromedriver-binary
+phantomjs-binary
